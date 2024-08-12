@@ -171,7 +171,7 @@ export const experiences = [
     img: "https://www.wipro.com/content/dam/nexus/staticsites/homepage/header/Wipro_Primary%20Logo_Color_RGB.svg",
     role: "Software Developer",
     company: "Wipro Technologies",
-    date: "June 2023 - July 2023",
+    date: "June 2020 - July 2023",
     desc: "I architected and developed the Virtual Automation Engineer (VAE) tool, leveraging technologies like JavaScript, React, Node.js, and RESTful APIs to automate complex workflows, significantly reducing manual testing efforts by 70%. My contributions included developing an NLP-based test case creation module with Python, enhancing accessibility and efficiency by 30%, and building a comprehensive dashboard for test analytics, improving debugging efficiency by 25%. Additionally, I implemented a self-healing feature for test cases, optimized deployment processes with CI/CD pipelines, and collaborated with UI/UX designers to create visually appealing web applications, ultimately increasing user satisfaction by 15% and improving data processing efficiency by 20%.",
     skills: [
       "HTML5",
