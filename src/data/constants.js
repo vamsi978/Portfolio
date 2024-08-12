@@ -11,7 +11,6 @@ export const Bio = {
   linkedin: "https://www.linkedin.com/in/karanam--vamsi--krishna/",
   resume:
     "https://drive.google.com/file/d/1ghW0X_XRpzXUZ_WSzb1Qh1IlHKrpxAvg/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/karanam--vamsi--krishna/",
   twitter: "https://twitter.com/RishavChanda",
   GitHub: "https://github.com/vamsi978",
   facebook: "https://www.facebook.com/rishav.chanda.165/",
