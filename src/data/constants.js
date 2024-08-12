@@ -1,4 +1,4 @@
-import { GitHub } from "@mui/icons-material";
+// import { GitHub } from "@mui/icons-material";
 
 export const Bio = {
   name: "Vamsi Krishna Karanam",
